@@ -2,7 +2,7 @@
 A Angular simple application that displays local elections result in real time.
 See demo [here](https://elections.lebo.md).
 
-Vue.js version [here](https://github.com/ionleu/ng-local-elections).
+Vue.js version [here](https://github.com/ionleu/vue-local-elections).
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ionleu)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
